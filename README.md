@@ -27,4 +27,4 @@ npm install
 npm start
 
 ## Screenshot
-![Resume Builder Preview](assets/images/Screenshot%202025-10-04%20190054.png)
+![Resume Builder Preview](assets/images/Screenshot.png)
