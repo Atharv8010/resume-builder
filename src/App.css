@@ -296,7 +296,6 @@ body {
   text-align: center;
   padding-bottom: 0.5rem;
   margin-bottom: 0.75rem;
- 
 }
 
 .resume-name {
@@ -329,7 +328,7 @@ body {
 }
 
 .contact-link {
-  color: #003399; /* Blue links */
+  color: #003399;
   font-weight: 400;
   text-decoration: none;
 }
@@ -357,7 +356,6 @@ body {
   text-align: justify;
 }
 
-/* Skills Section */
 .skills-categorized {
   display: flex;
   flex-direction: column;
@@ -386,7 +384,6 @@ body {
   flex: 1;
 }
 
-/* Academic Projects */
 .project-title-line {
   margin-bottom: 0.25rem;
 }
@@ -394,7 +391,7 @@ body {
 .content-title {
   font-size: 0.54rem;
   font-weight: 500;
-  color: #003399; /* Blue titles */
+  color: #003399;
   margin: 0;
 }
 
@@ -420,7 +417,6 @@ body {
   font-weight: 400;
 }
 
-/* Education Section */
 .content-block {
   margin-bottom: 0.625rem;
   page-break-inside: avoid;
@@ -482,7 +478,6 @@ body {
   font-style: normal;
 }
 
-/* Certifications */
 .cert-item {
   display: flex;
   gap: 0.5rem;
@@ -491,7 +486,7 @@ body {
 }
 
 .cert-bullet {
-  color: #003399; /* Blue bullets */
+  color: #003399;
   font-size: 0.75rem;
   font-weight: 700;
   flex-shrink: 0;
@@ -515,7 +510,6 @@ body {
   font-weight: 400;
 }
 
-/* Achievements */
 .achievement-item {
   display: flex;
   gap: 0.5rem;
@@ -524,7 +518,7 @@ body {
 }
 
 .achievement-bullet {
-  color: #003399; /* Blue bullets */
+  color: #003399;
   font-size: 0.75rem;
   flex-shrink: 0;
   font-weight: 700;
@@ -538,7 +532,6 @@ body {
   line-height: 1.45;
 }
 
-/* Empty Placeholder */
 .empty-placeholder {
   text-align: center;
   padding: 4rem 2rem;
@@ -562,7 +555,6 @@ body {
   color: #9ca3af;
 }
 
-/* Responsive */
 @media (max-width: 1024px) {
   .main-grid {
     grid-template-columns: 1fr;
@@ -574,11 +566,10 @@ body {
   }
 }
 
-/* Professional Experience */
 .content-block .block-row .content-title {
   font-size: 0.54rem;
   font-weight: 700;
-  color: #003399; /* Blue title */
+  color: #003399;
 }
 
 .content-block .content-subtitle {
