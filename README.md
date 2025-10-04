@@ -27,6 +27,6 @@ npm install
 npm start
 
 ## Screenshot
-![Resume Builder Preview](assets/images/Screenshot.png)
+check the output at final_output
 
 
