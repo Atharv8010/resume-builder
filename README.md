@@ -27,5 +27,5 @@ npm install
 npm start
 
 ## Screenshot
-![Resume Builder Preview](./assets/images/Screenshot.png)
+![Resume Builder Preview](assets/images/Screenshot.png)
 
