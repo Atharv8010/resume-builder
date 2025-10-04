@@ -28,3 +28,4 @@ npm start
 
 ## Screenshot
 ![Resume Builder Preview](./assets/images/Screenshot.png)
+
