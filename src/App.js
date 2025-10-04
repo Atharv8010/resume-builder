@@ -16,7 +16,6 @@ const Form = ({ type, formData, setFormData }) => {
       return { ...prev, [section]: newArray };
     });
   };
-
   const addItem = (section) => {
     const templates = {
       education: { degree: '', school: '', year: '', gpa: '' },
