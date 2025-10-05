@@ -27,6 +27,6 @@ npm install
 npm start
 
 ## Screenshot
-![App Screenshot](./assets/images/Screenshot01.png)
+![Home Page](./assets/images/Screenshot01.png)
 
 
