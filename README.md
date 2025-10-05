@@ -27,6 +27,6 @@ npm install
 npm start
 
 ## Screenshot
-![Resume builder form](./assets/images/Screenshot01.png)
+![App Screenshot](./assets/images/Screenshot01.png)
 
 
