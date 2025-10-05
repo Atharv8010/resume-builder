@@ -27,6 +27,6 @@ npm install
 npm start
 
 ## Screenshot
-check the output at final_output
+![Resume builder form](./assets/images/add-expense.png)
 
 
